@@ -1,4 +1,4 @@
-# pizza-tasks
+# portfolio
 
 https://github.com/kalitamih/game - React + React Router + Redux
 
